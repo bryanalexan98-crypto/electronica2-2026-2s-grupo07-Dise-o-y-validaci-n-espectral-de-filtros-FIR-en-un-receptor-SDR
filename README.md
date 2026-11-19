@@ -7,7 +7,7 @@ Diseño, simulación y validación espectral de filtros digitales FIR (pasa-alta
 - **Integrantes:**
   - Bryan Alexander Bonilla Mayorga
   - Cristian Alexander Asqui Jiménez alexander.asqui@unach.edu.ec
-  - Victor Elias Remache Guillin
+  - Victor Elias Remache Guillin. victor.remache@unach.edu.ec
 
 ## Objetivo
 Diseñar y simular filtros digitales FIR pasa-altas (250 kHz) y pasa-banda (300–400 kHz) de 64 coeficientes con ventana de Hamming en Python (`scipy.signal`).
