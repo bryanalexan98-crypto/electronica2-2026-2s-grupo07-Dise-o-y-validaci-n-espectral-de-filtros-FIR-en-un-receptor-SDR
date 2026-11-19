@@ -5,8 +5,8 @@ Diseño, simulación y validación espectral de filtros digitales FIR (pasa-alta
 - **Grupo:** Grupo 07
 - **Proyecto asignado:** Diseño y validación espectral de filtros FIR en un receptor SDR
 - **Integrantes:**
-  - Bryan Alexander Bonilla Mayorga
-  - Cristian Alexander Asqui Jiménez alexander.asqui@unach.edu.ec
+  - Bryan Alexander Bonilla Mayorga. bryan.bonilla@unach.edu.ec 
+  - Cristian Alexander Asqui Jiménez. alexander.asqui@unach.edu.ec
   - Victor Elias Remache Guillin. victor.remache@unach.edu.ec
 
 ## Objetivo
